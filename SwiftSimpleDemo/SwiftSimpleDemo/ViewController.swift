@@ -19,7 +19,19 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
+@IBAction func swiftAction()
+{
+    let name="siddhant"
+    print("your name is "+name)
+  
+    print("Hey Swift")
+    let alert=UIAlertController(title:"Swift", message: "Hey Swift", preferredStyle: UIAlertControllerStyle.alert)
+ 
+    
+    let action=UIAlertAction(title:"ok", style:.default, handler: nil)
+    alert.addAction(action)
+    self.present(alert, animated: true, completion:nil)
+}
 
 }
 

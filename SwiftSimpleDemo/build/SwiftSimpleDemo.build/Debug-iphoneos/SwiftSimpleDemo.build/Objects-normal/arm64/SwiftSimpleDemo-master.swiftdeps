@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "1564a7c899e0e0b8c1b4a9214d905502"
+build_time: [1512392345, 507079000]
+inputs:
+  "/Users/martandj/Documents/Code/Swift/SwiftSimpleDemo/SwiftSimpleDemo/ViewController.swift": [1512383400, 0]
+  "/Users/martandj/Documents/Code/Swift/SwiftSimpleDemo/SwiftSimpleDemo/AppDelegate.swift": [1512383400, 0]
