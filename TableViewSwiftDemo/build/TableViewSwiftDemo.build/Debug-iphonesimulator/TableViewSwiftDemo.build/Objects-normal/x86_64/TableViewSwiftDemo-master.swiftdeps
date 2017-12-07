@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "aea7f08fb790d937887751ba052f7359"
+build_time: [1512631683, 111878000]
+inputs:
+  "/Users/martandj/Documents/Code/Swift/TableViewSwiftDemo/TableViewSwiftDemo/TableCell.swift": [1512624591, 0]
+  "/Users/martandj/Documents/Code/Swift/TableViewSwiftDemo/TableViewSwiftDemo/ViewController.swift": [1512631682, 0]
+  "/Users/martandj/Documents/Code/Swift/TableViewSwiftDemo/TableViewSwiftDemo/AppDelegate.swift": [1512563847, 0]

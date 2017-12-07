@@ -24,7 +24,8 @@ class ViewController: UIViewController {
     let name="siddhant"
     print("your name is "+name)
   
-    print("Hey Swift")
+    let namez="Siddhant"
+    print("Hey Swift \(namez)")
     let alert=UIAlertController(title:"Swift", message: "Hey Swift", preferredStyle: UIAlertControllerStyle.alert)
  
     
